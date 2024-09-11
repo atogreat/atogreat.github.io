@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://atogreat.github.io/sitemap.html.gz
+Sitemap: https://atogreat.github.io/app/sitemap.html.gz
+Sitemap: https://atogreat.github.io/assets/sitemap.html.gz
+Sitemap: https://atogreat.github.io/css/sitemap.html.gz
+Sitemap: https://atogreat.github.io/includes/sitemap.html.gz
+Sitemap: https://atogreat.github.io/item/sitemap.html.gz
+Sitemap: https://atogreat.github.io/src/sitemap.html.gz
